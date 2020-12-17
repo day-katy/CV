@@ -1,6 +1,6 @@
-## Your Name
+## Katy Day
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an American expat who's been in the UK since 2011. My first passion is stories, and that took me down the path of grad school and working in publishing. Then I realized that I wasn't satisfied doing the same thing over and over again every day, so decided I needed a career change and a new challenge. Welcome coding! It's so engaging being challenged by something and needing to come up with a creative solution - I love working my brain! Coding and tech to me are new ways of telling stories, and I'm so excited to get into this industry.
 
 ## Projects
 
