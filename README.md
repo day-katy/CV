@@ -56,6 +56,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+- I wrote a blog chronicling my coding journey: https://katycodes.wordpress.com/
+
 #### SheCodes Workshops (October 2020 to December 2020)
 
 - SheCodes is a workshop teaching coding and design skills to women.
