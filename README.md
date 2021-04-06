@@ -5,7 +5,7 @@
 <a href='https://www.linkedin.com/in/katy-day-07334646/'>
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-[Projects](#Projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies and Interests](#hobbies-and-interests)
+[Projects](#Projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 
 </div>
 
