@@ -1,6 +1,19 @@
-## Katy Day
+![README Banner](banner.png)
+
+<div align="center">
+
+<a href='https://www.linkedin.com/in/holly-duckett-b41010192/'>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+[Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
+
+</div>
+
+## About Me
 
 I'm an American expat who's been in the UK since 2011. My first passion is stories, and that took me down the path of grad school and working in publishing. Then I realized that I wasn't satisfied doing the same thing over and over again every day, so decided I needed a career change and a new challenge. Welcome coding! It's so engaging being challenged by something and needing to come up with a creative solution - I love working my brain! Coding and tech to me are new ways of telling stories, and I'm so excited to get into this industry.
+
+**Tech Skills** : Ruby, Rails, Sinatra, Node.js, React, React Native, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 ## Projects
 
@@ -9,14 +22,13 @@ I'm an American expat who's been in the UK since 2011. My first passion is stori
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Fast learner
 
-- When I started at Bloomsbury, I had no idea how to use Biblio, Collection Point or FocalPoint, three software systems used by the publishing industry. I very quickly learned how these systems worked and became especially proficient at using Biblio - so much so that when I moved to Andersen Press, my new colleagues expressed amazement at my Biblio skills.  Experience
+- When I started at Bloomsbury, I had no idea how to use Biblio, Collection Point or FocalPoint, three software systems used by the publishing industry. I very quickly learned how these systems worked and became especially proficient at using Biblio - so much so that when I moved to Andersen Press, my new colleagues expressed amazement at my Biblio skills. Experience
 - Achievements
 - Evidence
 
@@ -84,6 +96,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
+
 ## Experience
 
 **Andersen Press** (January 2020 to October 2020)  
