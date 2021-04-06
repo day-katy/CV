@@ -94,7 +94,7 @@ _Editorial Intern_
 **[Univeristy of Cambridge, Faculty of Education Library](https://www.educ.cam.ac.uk/library/)** (October 2014 to January 2019)  
 _Invigilator_
 
-- Responsible for generall supervision of the library when no one else was there.
+- Responsible for general supervision of the library when no one else was there.
 - Handled all kinds of requests and dealt with all types of people, from students to head of faculties.
 - Honed my Excel and library database skills, filling in detailed and precise information, from student records to book information.
 
