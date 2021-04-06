@@ -41,7 +41,7 @@ My excellent time management and organisation ensured the successful smooth runn
 
 #### Enthusiastic
 
-I am super enthusiastic - I could try to blame in on being American, but I think it's hardwired into my personality. This means that I can get excited about anything, and maintain that level of excitement for a really long time. It helps me stay mentally engaged in a project, and it can be infectious - one of my SassSquatch teammates once called me 'the happiest person ever', and my mental attitude helped boost the rest of the team. When the coding got difficult, and the pressure of doing our final project started getting to us, my enthusiasm helped buoy up people's spirits, helping us drive through to the end.
+I am super enthusiastic - I could try to blame it on being American, but I think it's hardwired into my personality. This means that I can get excited about anything, and maintain that level of excitement for a really long time. It helps me stay mentally engaged in a project, and it can be infectious - one of my SassSquatch teammates once called me 'the happiest person ever', and my mental attitude helped boost the rest of the team. When the coding got difficult, and the pressure of doing our final project started getting to us, my enthusiasm helped buoy up people's spirits, helping us drive through to the end.
 
 ## Education
 
