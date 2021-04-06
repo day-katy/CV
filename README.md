@@ -5,7 +5,7 @@
 <a href='https://www.linkedin.com/in/katy-day-07334646/'>
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-[Projects](#Projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[Projects](#Projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [GitHub Stats](#github-stats)
 
 </div>
 
@@ -103,7 +103,7 @@ _Invigilator_
 - I love the ocean and sailed tall ships for two summers - yes, I DID imagine myself as a pirate sometimes. Also it taught me lots about thinking on the spot, not letting the pressure get to you, and teamwork! (Teamwork makes the dream work.)
 - Is being a bookworm a hobby? If not, it should be. My hobby = bookworming.
 
-## Github Stats
+## GitHub Stats
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=day-katy&show_icons=true&theme=react">
