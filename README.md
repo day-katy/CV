@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm an American expat who's been in the UK since 2011. My first passion is stories, and while that originally took my down publishing route, I realised that coding is all about stories too. Everything you create in code is trying to tell a story, whether it's the story of your bank balance or the tale of social media.
+I'm an American expat who's been in the UK since 2011. My first passion is stories, and while that originally took my down publishing route, I discovered that coding is all about stories too. Everything you create in code is trying to tell a story, whether it's the story of your bank balance or the tale of social media.
 
 What excites me about software development is the emphasis on learning - yes, you need to do the work, but a lot of the work is figuring out the stuff. The stuff can be how a web app works, or how to get a random response when you ask a computer a question, or how to get information to persist from one screen to the next. It's always changing! And you have to really think about it.
 
