@@ -35,7 +35,7 @@ Learning new technologies is a key skill of mine, which can be demonstrated thro
 
 Communication is my jam. At Andersen Press, I worked for two teams which each had different deadlines and priorities. I needed to ensure that each of these teams was talking to each other, as well as with other departments, to make sure that everything ran successfully and on time. This skill was easily translated to coding, and I'm great at talking aloud during my coding process, justifying what I'm doing and explaining what's happening. It's also useful in group projects - not only for deciding on what needs to be done, but also in describing what you've found and teaching it to the rest of the group. It's also handy for when things get a bit awkward between other people, which is a reality in all group projects - I love mediating, and helping people talk out what's happening.
 
-### Organisation and Time Management
+#### Organisation and Time Management
 
 My excellent time management and organisation ensured the successful smooth running of all the teams I kept on schedule. A detailed plan including specific tasks and strict deadlines created an essential overview allowing me to manage all projects effectively. During Makers, I have continuously applied this skill set when approaching our Team Projects; creating sprints with planned purposeful tasks and strict deadlines allowed us to be efficient and productive and thus create numerous successful and informative projects.
 
