@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm an American expat who's been in the UK since 2011. My first passion is stories, which originally led me to getting my PhD in literature from the University of Cambridge and working in publishing. It was publishing that opened up the world of tech for me, and I soon discovered that coding is all about stories too. Everything you create in code is trying to tell a story, whether it's the story of your bank balance or the tale of social media.
+I'm an American expat who's been in the UK since 2011. My first passion is stories, which originally led me to getting my PhD in literature from the University of Cambridge. It was later working publishing that opened up the world of tech for me, and I soon discovered that coding is all about stories too. Everything you create in code is trying to tell a story, whether it's the story of your bank balance or the tale of social media.
 
 What excites me about software development is the emphasis on learning - yes, you need to do the work, but a lot of the work is figuring out the stuff. The stuff can be how a web app works, or how to get a random response when you ask a computer a question, or how to get information to persist from one screen to the next. It's always changing! And you have to really think about it.
 
@@ -29,7 +29,7 @@ What excites me about software development is the emphasis on learning - yes, yo
 
 #### Fast learner
 
-Learning new technologies is a key skill of mine, which can be demonstrated through my success at Makers Academy, and in previous jobs. When I started at Bloomsbury, I quickly had to learn how to use Biblio, Collection Point and FocalPoint, three software systems used by the publishing industry. I became especially proficient at using Biblio - so much so that when I moved to Andersen Press, my new colleagues would often come to me for Biblio advice and to help them with Biblio queries.
+Learning new technologies is a key skill of mine, which can be demonstrated through my success at Makers Academy, and in previous jobs. When I started at Bloomsbury, I employed my growth mindset to quickly learn how to use Biblio, Collection Point and FocalPoint, three software systems used by the publishing industry. I became especially proficient at using Biblio - so much so that when I moved to Andersen Press, my new colleagues would often come to me for Biblio advice and to help them with Biblio queries.
 
 #### Fabulous communicator
 
@@ -56,6 +56,7 @@ A 16-week intensive development bootcamp, focusing on :
 - XP values
 - Peer code reviews
 - Git workflow
+- Emotional intelligence
 
 **[SheCodes Workshops](https://www.shecodes.io/)** (October 2020 to December 2020)
 
