@@ -92,11 +92,12 @@ _Editorial Intern_
 - Quickly learned publishing software systems, including Biblio, Collection Point and Focal Point.
 - Worked for three different teams, requiring me to communicate clearly and often to all parties to ensure that proper deadlines were prioritised and that everything ran to schedule.
 
-**[Univeristy of Cambridge, Faculty of Education Library](https://www.educ.cam.ac.uk/library/)** (October 2014 to January 2019)  
+**[University of Cambridge, Faculty of Education Library](https://www.educ.cam.ac.uk/library/)** (October 2014 to January 2019)  
 _Invigilator_
 
 - Responsible for general supervision of the library when no one else was there.
-- Handled all kinds of requests and dealt with all types of people, from students to head of faculties.
+- Reacted to stressful situations on the spot in a meticuous manner.
+- Dealt with all types of people, from students to head of faculties, further crafting my communication skills.
 - Honed my Excel and library database skills, filling in detailed and precise information, from student records to book information.
 
 ## Hobbies and Interests
